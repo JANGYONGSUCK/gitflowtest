@@ -9,7 +9,11 @@ dev수정2
 긴급수정1
 긴급수정2
 <<<<<<< HEAD
+<<<<<<< HEAD
 reset1
 reset3
 =======
 >>>>>>> parent of a86c863... reset1
+=======
+reset1
+>>>>>>> parent of c6750fe... revert commit1
